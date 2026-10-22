@@ -1,0 +1,35 @@
+app/
+├── assets/
+│   ├── android-icon-background.png (17.1 KB)
+│   ├── android-icon-foreground.png (76.9 KB)
+│   ├── android-icon-monochrome.png (4.0 KB)
+│   ├── favicon.png (1.1 KB)
+│   ├── icon.png (384.3 KB)
+│   └── splash-icon.png (17.1 KB)
+├── src/
+│   ├── ai/
+│   │   ├── prompt.js (2.1 KB)
+│   │   └── providers.js (3.1 KB)
+│   ├── components/
+│   │   ├── Button.js (1.4 KB)
+│   │   └── FieldInput.js (2.0 KB)
+│   ├── screens/
+│   │   ├── NewOrderScreen.js (7.4 KB)
+│   │   ├── OrderDetailScreen.js (3.7 KB)
+│   │   ├── OrdersScreen.js (7.8 KB)
+│   │   └── SettingsScreen.js (6.1 KB)
+│   ├── api.js (0.4 KB)
+│   ├── config.js (0.2 KB)
+│   ├── notify.js (2.3 KB)
+│   ├── orders.js (3.7 KB)
+│   ├── settings.js (1.3 KB)
+│   ├── storage.js (0.4 KB)
+│   └── theme.js (0.9 KB)
+├── .gitignore (0.4 KB)
+├── AGENTS.md (2.5 KB)
+├── App.js (4.4 KB)
+├── app.json (0.6 KB)
+├── index.js (0.3 KB)
+├── LICENSE (1.1 KB)
+├── list-files.js (1.3 KB)
+└── package.json (0.7 KB)
